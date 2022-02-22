@@ -10,7 +10,7 @@
 
 >ID section will be specified as **Primary Key**
 
->Allignments starts from **left**
+>Allignments starts from **left** to **right**
 
 
 
@@ -38,10 +38,22 @@
   - Obtaining Way: Will be pulled from the user database
 
 
-    D) EMAIL SECTION
+   D) EMAIL SECTION
   
   - Type: Boolean
   - Requirement: Required
   - Specified Form: True/False
   - Obtaining Way: Will be pulled from the user database
+
+
+
+
+
+
+
+### **2) USER REGISTER INFORMATION PANEL**
+
+>All information will be taken directly from user
+
+>Allignments starts from **top** to **bottom**
 
