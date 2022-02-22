@@ -5,6 +5,9 @@ YOU CAN FIND RELATIVE INFORMATION ABOUT 2 SECTIONS OF REGISTER PAGE
 
 ### **1) USER REGISTER TABLE**
 
+All information will be pulled from the user databases
+
+ID section will be specified as **Primary Key**
 
 
 
