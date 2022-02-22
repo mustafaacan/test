@@ -34,7 +34,7 @@
   
   - Type: String / Text
   - Requirement: Required
-  - Specified Form: must be in the mail form
+  - Specified Form: Must be in the mail form
   - Obtaining Way: Will be pulled from the user database
 
 
