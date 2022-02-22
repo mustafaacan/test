@@ -44,7 +44,7 @@
   - Type: Integer
   - Requirement: Required
   - Specified Form: 
-  - Dependencies: 
+  - Dependencies: HIDE DISABLED USER CLICK
   - Obtaining Way: Will be automatically added when new user added
   
   
@@ -53,7 +53,7 @@
   - Type: String / Text
   - Requirement: Required
   - Specified Form: 
-  - Dependencies: 
+  - Dependencies: HIDE DISABLED USER CLICK
   - Obtaining Way: Will be pulled from the user database
 
 
@@ -62,7 +62,7 @@
   - Type: String / Text
   - Requirement: Required
   - Specified Form: Must be in the mail form
-  - Dependencies: 
+  - Dependencies: HIDE DISABLED USER CLICK
   - Obtaining Way: Will be pulled from the user database
 
 
