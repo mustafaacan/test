@@ -91,8 +91,23 @@
   
   - Type: String / Text
   - Requirement: Required
-  - Specified Form: must be in the mail form 
+  - Specified Form: Must be in the mail form 
   - Obtaining Way: Will be pulled from the user
 
+
+   E) USER ROLE SECTION
+  
+  - Type: String / Text
+  - Requirement: Required
+  - Specified Form: 
+  - Obtaining Way: Selection (Guest, Admin, Süperadmin) 
+
+   F) ENABLED SECTION
+  
+  - Type: Boolean
+  - Requirement: Required
+  - Specified Form: True / False
+  - Obtaining Way: Clicking (Filled: True / Not Filled: False) 
+   
 
 
