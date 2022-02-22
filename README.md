@@ -95,14 +95,14 @@
   - Obtaining Way: Will be pulled from the user
 
 
-   E) USER ROLE SECTION
+    E) USER ROLE SECTION
   
   - Type: String / Text
   - Requirement: Required
   - Specified Form: 
   - Obtaining Way: Selection (Guest, Admin, Süperadmin) 
 
-   F) ENABLED SECTION
+    F) ENABLED SECTION
   
   - Type: Boolean
   - Requirement: Required
