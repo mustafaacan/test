@@ -22,7 +22,7 @@ Allignments starts from **left**
   - Obtaining Way: Will be automatically added when new user added
   
   
-  B) USER NAME SECTION
+   B) USER NAME SECTION
   
   - Type: String / Text
   - Requirement: Required
