@@ -13,6 +13,10 @@ Allignments starts from **left**
 
   A) ID SECTION
   
+  - Type: Integer
+  - Requirement: Required
+  - Obtaining way: Will be automatically added when new user added
+  
   
 
 
