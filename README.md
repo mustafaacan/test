@@ -1,4 +1,4 @@
-## This files includes some information about USER INTERFACE SPECIFICATION 
+## This file includes some information about USER INTERFACE SPECIFICATION 
 
 >YOU CAN FIND RELATIVE INFORMATION ABOUT 2 SECTIONS OF REGISTER PAGE BELOW 
 
@@ -38,7 +38,7 @@
   - Obtaining Way: Will be pulled from the user database
 
 
-   D) EMAIL SECTION
+    D) EMAIL SECTION
   
   - Type: Boolean
   - Requirement: Required
