@@ -9,6 +9,11 @@ All information will be pulled from the user databases
 
 ID section will be specified as **Primary Key**
 
+Allignments starts from **left**
+
+  A) ID SECTION
+  
+  
 
 
 
