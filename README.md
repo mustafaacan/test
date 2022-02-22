@@ -30,4 +30,18 @@
   - Obtaining Way: Will be pulled from the user database
 
 
+   C) EMAIL SECTION
+  
+  - Type: String / Text
+  - Requirement: Required
+  - Specified Form: must be in the mail form
+  - Obtaining Way: Will be pulled from the user database
+
+
+   D) EMAIL SECTION
+  
+  - Type: Boolean
+  - Requirement: Required
+  - Specified Form: True/False
+  - Obtaining Way: Will be pulled from the user database
 
