@@ -38,11 +38,11 @@
   - Obtaining Way: Will be pulled from the user database
 
 
-   D) EMAIL SECTION
+   D) ENABLED SECTION
   
   - Type: Boolean
   - Requirement: Required
-  - Specified Form: True/False
+  - Specified Form: True / False
   - Obtaining Way: Will be pulled from the user database
 
 
@@ -61,7 +61,7 @@
 
   A) USERNAME SECTION
   
-  - Type: String/Text
+  - Type: String / Text
   - Requirement: Required
   - Specified Form:  
   - Obtaining Way: Will be pulled from the user
@@ -71,7 +71,7 @@
   
   >> This information will be added to **REGISTER TABLE**
   
-  - Type: String/Text
+  - Type: String / Text
   - Requirement: Required
   - Specified Form: 
   - Obtaining Way: Will be pulled from the user
@@ -100,9 +100,13 @@
   - Type: String / Text
   - Requirement: Required
   - Specified Form: 
-  - Obtaining Way: Selection (Guest, Admin, Süperadmin) 
+  - Obtaining Way: Selection (Guest, Admin, Superadmin) 
+
+
 
    F) ENABLED SECTION
+   
+   >> This information will be added to **REGISTER TABLE**
   
   - Type: Boolean
   - Requirement: Required
