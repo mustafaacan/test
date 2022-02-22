@@ -1,3 +1,4 @@
 ## This files includes some information about USER INTERFACE PAGE 
 
+YOU CAN FIND RELATIVE INFORMATION ABOUT 2 SECTION OF REGISTER PAGE
 
