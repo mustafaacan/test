@@ -57,3 +57,42 @@
 
 >Allignments starts from **top** to **bottom**
 
+
+
+  A) USERNAME SECTION
+  
+  - Type: String/Text
+  - Requirement: Required
+  - Specified Form:  
+  - Obtaining Way: Will be pulled from the user
+
+
+  B) DISPLAY NAME SECTION
+  
+  >> This information will be added to **REGISTER TABLE**
+  
+  - Type: String/Text
+  - Requirement: Required
+  - Specified Form: 
+  - Obtaining Way: Will be pulled from the user
+
+  
+   C) PHONE SECTION
+  
+  - Type: Integer
+  - Requirement: Not Required
+  - Specified Form:  
+  - Obtaining Way: Will be pulled from the user
+
+
+   D) EMAIL SECTION
+  
+  >> This information will be added to **REGISTER TABLE**
+  
+  - Type: String / Text
+  - Requirement: Required
+  - Specified Form: must be in the mail form 
+  - Obtaining Way: Will be pulled from the user
+
+
+
