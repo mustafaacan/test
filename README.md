@@ -72,7 +72,7 @@
   - Requirement: Required
   - Specified Form: True / False
   - Dependencies: HIDE DISABLED USER CLICK
-  - Obtaining Way: HIDE DISABLED USER CLICK
+  - Obtaining Way: Will be pulled from the user database
 
 
 
